@@ -1,7 +1,7 @@
 package student_card
 
 import (
-	ledgerapi "awesomeProject/src/StudentCard-Contract/ledger-api"
+	ledgerapi "StudentCardProject/StudentCard-Contract/ledger-api"
 )
 
 // StudentCardListInterface 定义StudentCardList应实现的方法
